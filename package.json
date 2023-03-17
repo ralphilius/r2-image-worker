@@ -1,7 +1,6 @@
 {
   "name": "r2-image-worker",
   "version": "0.0.1",
-  "main": "src/index.js",
   "scripts": {
     "dev": "wrangler dev ./src/index.ts",
     "deploy": "wrangler publish ./src/index.ts"
